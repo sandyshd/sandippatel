@@ -1134,6 +1134,22 @@ section {
   font-weight: 700;
 }
 
+.media-source-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.media-source-logo {
+  width: 26px;
+  height: 26px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: #fff;
+  object-fit: contain;
+  padding: 2px;
+}
+
 .media-card h4 {
   margin-bottom: 4px;
   font-size: 1.125rem;
