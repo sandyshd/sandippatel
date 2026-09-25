@@ -1,0 +1,10 @@
+# Private source documents — never publish
+Sandip_Patel_EB1A_CV.pdf
+Sandip_Patel_Resume.pdf
+*_EB1A_*.pdf
+*_Resume.pdf
+
+# OS / editor noise
+Thumbs.db
+.DS_Store
+.vscode/

@@ -1,7 +1,9 @@
+# Sandip Patel — https://sandipbpatel.com
+# Secure agentic AI and cloud architecture for the enterprise
+
 User-agent: *
 Allow: /
+Disallow: /Sandip_Patel_EB1A_CV.pdf
+Disallow: /Sandip_Patel_Resume.pdf
 
 Sitemap: https://sandipbpatel.com/sitemap.xml
-
-# Sandip Patel - AI Architecture & Secure Agentic Systems Leader
-# https://sandipbpatel.com
